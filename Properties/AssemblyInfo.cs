@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Honeywell")]
+[assembly: AssemblyCompany("NA")]
 [assembly: AssemblyProduct("UnitTests")]
-[assembly: AssemblyCopyright("Copyright © Honeywell 2017")]
+[assembly: AssemblyCopyright("Copyright © NA")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
